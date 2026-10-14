@@ -1,4 +1,4 @@
-# Hotel_Booking_Data_Analysis
+# Hotel Booking Data Analysis
 Project Overview
 
 An end-to-end exploratory data analysis project using Python, Pandas, and Seaborn to examine hotel booking trends, cancellation behavior, pricing patterns, and customer segments.
